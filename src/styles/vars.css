@@ -1,0 +1,36 @@
+:root {
+    /* FONT */
+    --font-dm-sans: "DM Sans", sans-serif;
+    
+
+    /* COLORS */
+    --bg-icon: #131313;
+    --bg-arrow-color: rgba(44, 56, 48, 0.774);
+    --bg-button-color: #fff;
+    --bg-areas-color: rgba(158, 244, 171, 0.342);
+    --font-color-links: #2C3830;
+    --font-color-light: #fff;
+    --font-color-black: #000;
+
+    --blur: #784141;
+
+    /* CARDS COLORS */    
+    --card1: rgb(211, 22, 22);
+    --card2: rgb(132, 0, 231);
+    --card3: rgb(30, 50, 100);
+    --card4: rgb(140, 25, 50);
+    --card5: rgb(232, 17, 91);
+    --card6: rgb(83, 122, 161);
+    --card7: rgb(142, 102, 172);
+    --card8: rgb(20, 138, 8);
+    --card9: rgb(30, 50, 100);
+    --card10: rgb(233, 20, 41);
+    --card11: rgb(80, 55, 80);
+    --card12: rgb(216, 64, 0);
+    --card13: rgb(186, 93, 7);
+    --card14: rgb(0, 30, 80);
+    --card15: rgb(60, 30, 80);
+
+    --grid-gap: 24px;
+    --column-count: 5;
+}
